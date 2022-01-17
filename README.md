@@ -1,9 +1,9 @@
 
   <h1 align="center">Team Profile Generator </h1>
-  Walk through video:https://watch.screencastify.com/v/ZZK8qi84Rv4IkFoPxQiB
+
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-
+  Walk through video:https://watch.screencastify.com/v/ZZK8qi84Rv4IkFoPxQiB
 ## Description
  Generate an html file with information about your team
 ## Table of Contents
